@@ -1,1 +1,3 @@
-build
+Almond/build
+Almond/Almond.xcodeproj/*.pbxuser
+Almond/Almond.xcodeproj/*.perspectivev3

@@ -1,0 +1,30 @@
+*********************************************************************************
+*                                                                               *
+* Almond is currently pre-alpha software!                                       *
+*                                                                               *
+* In it's current state (2009-09-12) it is not functional, and not useful. What *
+* you see here is a technology preview and work in progress.                    *
+*                                                                               *
+*********************************************************************************
+
+Almond
+======
+
+Almond is an all purpose digital housekeeper.
+
+That basically means it will apply a set of rules to a set of files, and then
+perform a number of actions. These might be actions to archive or delete old
+files, sort images into folders based on download date, or something entirely
+different. The rules and and actions are written in the common script language
+Lua, and is easily user extensible.
+
+Almond is licensed under GPLv3, with all that that entails. See the LICENSE
+file for details.
+
+The latest source code is always available at:
+
+  http://github.com/calmh/Almond/tree/master
+
+Jakob Borg
+2009-09-12
+
